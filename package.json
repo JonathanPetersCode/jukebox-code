@@ -1,0 +1,26 @@
+{
+  "name": "jukebox-code",
+  "version": "1.0.0",
+  "description": "jukebox project sandbox",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanPetersCode/jukebox-sandbox.git"
+  },
+  "keywords": [
+    "jukebox"
+  ],
+  "author": "j.peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanPetersCode/jukebox-sandbox/issues"
+  },
+  "homepage": "https://github.com/JonathanPetersCode/jukebox-sandbox#readme"
+}
