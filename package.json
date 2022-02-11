@@ -4,7 +4,8 @@
   "description": "jukebox project sandbox",
   "main": "app.js",
   "dependencies": {
-    "axios": "^0.25.0"
+    "axios": "^0.25.0",
+    "musicbrainz-api": "^0.7.2"
   },
   "devDependencies": {},
   "scripts": {
